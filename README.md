@@ -1,7 +1,7 @@
 ## kotlin
 
 #### Why?
-Powerful 
+Simple, Expressive, Powerful
 #### Basic Syntax 
 * Varialble
 * Constant
