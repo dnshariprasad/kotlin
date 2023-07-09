@@ -7,4 +7,9 @@
 3. Lambda Expression
 4. Scope Functions
 5. Infix notation/function
-### Classes
+### [Classes](https://dnshariprasad.medium.com/kotlin-special-classes-d24e10ac8aa0)
+1. data
+2. sealed
+3. enum
+4. object
+5. inner
